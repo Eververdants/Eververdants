@@ -1,77 +1,132 @@
 <div align="center">
-<img width="100%" height="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0051ff&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Eververdants;A+Passionate+Developer+From+China)](https://git.io/typing-svg)
-<p align="center">
-  <a href="https://eververdants.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://space.bilibili.com/2019959464"><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-blue?style=flat-square&logo=bilibili"></a>
-  <a href="mailto:llzgd@outlook.com"><img src="https://img.shields.io/badge/Email-邮箱-blue?style=flat-square&logo=gmail"></a>
+# 🌿 EVERVERDANTS
+### 万山青未阑
+
+*Writing clean code, finding poetry in the everyday tools.*
+
+<a href="https://eververdants.github.io/"><img src="https://img.shields.io/badge/Blog-6b9e6b?style=flat-square&logo=google-chrome&logoColor=white&labelColor=2d4a2d"></a>
+<a href="https://space.bilibili.com/2019959464"><img src="https://img.shields.io/badge/Bilibili-6b9e6b?style=flat-square&logo=bilibili&logoColor=white&labelColor=2d4a2d"></a>
+<a href="https://www.douyin.com/user/MS4wLjABAAAA8MEFE6VVh4_nWkTLPbueZYywgSyN19xhUFkmDF-nkhlnWytZWiBZ9YWM5s3RsprJ"><img src="https://img.shields.io/badge/抖音-6b9e6b?style=flat-square&logo=tiktok&logoColor=white&labelColor=2d4a2d"></a>
+<a href="mailto:llzgd@outlook.com"><img src="https://img.shields.io/badge/Email-6b9e6b?style=flat-square&logo=gmail&logoColor=white&labelColor=2d4a2d"></a>
+<a href="https://github.com/Eververdants"><img src="https://img.shields.io/badge/GitHub-6b9e6b?style=flat-square&logo=github&logoColor=white&labelColor=2d4a2d"></a>
+
+</div>
+
+<br/>
+
+<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
+
+<table>
+<tr>
+<td width="65%" style="padding-right: 20px;">
+
+### 👤 About Me
+
+> *Eververdants · 万山青未阑 —— 名字取自词牌十六字令，意喻常青不尽的群山。独立开发者，写干净代码，做有温度的创作。*
+
+- 🔭 **Role** — Independent developer & open-source contributor
+- 💡 **Mindset** — Clean architecture, readable code, fast feedback loops
+- 🤝 **Open to** — Interesting collaborations with clear impact
+- ⚡ **Believe** — Great tools should feel invisible
+
+</td>
+<td width="35%" align="center">
+
+<img width="220" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
+
+### 🛠️ Tech Stack
+
+<p align="center" style="color: #8cb87a; font-size: 0.9em;">
+  Python · TypeScript/JavaScript · Go · Rust · C# · Java · C++ · Dart · Lua · SQL
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-2d4a2d?style=flat-square&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-2d4a2d?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-2d4a2d?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-2d4a2d?style=flat-square&logo=markdown&logoColor=white">
+</p>
 
 </div>
 
-## 🧑‍💻 关于我 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+<br/>
 
-> 热爱编程，热爱开源，热爱创造的开发者
+<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
 
-- 🔭 目前在做：!@#^%$#
-- 🌱 正在学习：Unreal Engine 5
-- 👯 期待合作：有趣的开源项目
-- 🤔 在思考：如何让代码更优雅
-- ⚡ 有趣的事：我喜欢在代码中寻找彩蛋
-
+### 📊 GitHub Analytics
 
 <div align="center">
-  
-### 🔨 编程语言
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🛠️ 开发工具
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eververdants&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eververdants&layout=compact&langs_count=8&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
 
+<br/><br/>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eververdants&theme=vue&bg_color=f8f6f0&color=6b9e6b&line=6b9e6b&point=8cb87a&area=true&hide_border=true&area_color=6b9e6b20&radius=8" />
+
+<br/><br/>
+
+<img width="92%" src="https://github-profile-trophy.vercel.app/?username=Eververdants&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12" />
 
 </div>
 
-## 📈 GitHub 统计
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eververdants&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eververdants&layout=compact&langs_count=8&theme=tokyonight"/>
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eververdants&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph),
-</div>
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eververdants&theme=dark&hide_border=true" />
 </div>
 
-<!-- GitHub 奖杯🏆 -->
+<br/>
+
+<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
+
+### 📌 Featured Projects
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eververdants&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
 
-## 🏆 精选项目
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ETBSaveManager&theme=tokyonight)](https://github.com/Eververdants/ETBSaveManager)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ETBBetterChineseLocalization&theme=tokyonight)](https://github.com/Eververdants/ETBBetterChineseLocalization)
+<a href="https://github.com/Eververdants/douyin-seo-playbook">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=douyin-seo-playbook&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
+</a>
+<a href="https://github.com/Eververdants/Qu stream">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=Questream&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
+</a>
+<a href="https://github.com/Eververdants/ETBSaveManager">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ETBSaveManager&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
+</a>
+<a href="https://github.com/Eververdants/video-analytics">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=video-analytics&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
+</a>
 
 </div>
 
+</div>
+
+<br/>
+
+<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
+
+### 🐍 Contribution Snake
+
 <div align="center">
 
-<!-- 分割线 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img src="https://raw.githubusercontent.com/Eververdants/Eververdants/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<!-- 页脚 -->
-<div align="center">Thanks for visiting! :heart:</div>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" />
+</div>
+
+<br/>
+
+<div align="center" style="background: #ffffff; border-radius: 16px; padding: 20px; margin: 12px 0; color: #4a5a4a;">
+
+  <h3 style="color: #2d4a2d; margin-bottom: 4px;">Eververdants · 万山青未阑</h3>
+  <p><em>Thanks for stopping by 🌿</em></p>
 
 </div>
