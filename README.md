@@ -1,9 +1,15 @@
 <div align="center">
 
 # 🌿 EVERVERDANTS
-### 万山青未阑
+### 万山青未阑 — Everlasting Verdancy
 
-*Writing clean code, finding poetry in the everyday tools.*
+<sub>*A name borrowed from classical Chinese verse — the endless green of layered mountains.*</sub>
+
+<br/>
+
+> *Writing clean code, finding poetry in the everyday tools.*
+
+<br/>
 
 <a href="https://eververdants.github.io/"><img src="https://img.shields.io/badge/Blog-6b9e6b?style=flat-square&logo=google-chrome&logoColor=white&labelColor=2d4a2d"></a>
 <a href="https://space.bilibili.com/2019959464"><img src="https://img.shields.io/badge/Bilibili-6b9e6b?style=flat-square&logo=bilibili&logoColor=white&labelColor=2d4a2d"></a>
@@ -21,14 +27,15 @@
 <tr>
 <td width="65%" style="padding-right: 20px;">
 
-### 👤 About Me
+### 👤 About
 
-> *Eververdants · 万山青未阑 —— 名字取自词牌十六字令，意喻常青不尽的群山。独立开发者，写干净代码，做有温度的创作。*
+> *High-school student, independent developer, and open-source contributor — building in public.*
 
-- 🔭 **Role** — Independent developer & open-source contributor
-- 💡 **Mindset** — Clean architecture, readable code, fast feedback loops
-- 🤝 **Open to** — Interesting collaborations with clear impact
-- ⚡ **Believe** — Great tools should feel invisible
+- 🔭 **Role** — building side projects & polishing utility tools
+- 💡 **Mindset** — clean architecture, readable code, fast feedback
+- 🤝 **Open to** — interesting collaborations with clear impact
+- 🌱 **Focus** — open source tooling · AI × calligraphy & photography · Mao-era literature digitization
+- ⚡ **Believe** — great tools should feel invisible
 
 </td>
 <td width="35%" align="center">
@@ -45,7 +52,7 @@
 
 <div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 <p align="center" style="color: #8cb87a; font-size: 0.9em;">
   Python · TypeScript/JavaScript · Go · Rust · C# · Java · C++ · Dart · Lua · SQL
@@ -87,15 +94,15 @@
 
 <div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
 
-### 📌 Featured Projects
+### 📌 Projects
 
 <div align="center">
 
 <a href="https://github.com/Eververdants/douyin-seo-playbook">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=douyin-seo-playbook&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
 </a>
-<a href="https://github.com/Eververdants/Qu stream">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=Questream&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
+<a href="https://github.com/Eververdants/ink-quality-net">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ink-quality-net&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
 </a>
 <a href="https://github.com/Eververdants/ETBSaveManager">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ETBSaveManager&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
