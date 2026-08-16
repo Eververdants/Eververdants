@@ -34,7 +34,7 @@
 - 🔭 **Role** — building side projects & polishing utility tools
 - 💡 **Mindset** — clean architecture, readable code, fast feedback
 - 🤝 **Open to** — interesting collaborations with clear impact
-- 🌱 **Focus** — open source tooling · AI × calligraphy & photography · Mao-era literature digitization
+- 🌱 **Focus** — open source tooling · AI × calligraphy & photography · essays on Mao Zedong's Selected Works
 - ⚡ **Believe** — great tools should feel invisible
 
 </td>
