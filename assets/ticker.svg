@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="64" viewBox="0 0 1240 64" role="img" aria-label="PIXEL · DISSOLVE · DIGITAL GARDEN · 万山青未阑 · KEEP SHIPPING">
+<defs>
+<style>
+  .name { font-family:Inter,'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif; font-weight:900; letter-spacing:-2.6px; fill:#f4f6fb; }
+  .lbl  { font-family:ui-monospace,'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Noto Sans Mono CJK SC','Microsoft YaHei',monospace; font-size:14px; letter-spacing:2.4px; fill:#7d8598; }
+  .val  { font-family:ui-monospace,'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Noto Sans Mono CJK SC','Microsoft YaHei',monospace; font-size:20px; fill:#f4f6fb; }
+  .sub  { font-family:ui-monospace,'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Noto Sans Mono CJK SC','Microsoft YaHei',monospace; font-size:19px; fill:#8b93a5; }
+  .lead { font-family:ui-monospace,'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Noto Sans Mono CJK SC','Microsoft YaHei',monospace; font-size:22px; fill:#f4f6fb; }
+  .lime { fill:#c6ff4d; }
+  .dim  { fill:#8b93a5; }
+</style>
+<pattern id="dither" width="8" height="8" patternUnits="userSpaceOnUse" shape-rendering="crispEdges"><rect x="0" y="0" width="1" height="1" fill="#ffffff" opacity="0.05"/><rect x="2" y="0" width="1" height="1" fill="#ffffff" opacity="0.12"/><rect x="4" y="0" width="1" height="1" fill="#ffffff" opacity="0.07"/><rect x="6" y="0" width="1" height="1" fill="#ffffff" opacity="0.13"/><rect x="0" y="2" width="2" height="2" fill="#ffffff" opacity="0.15"/><rect x="2" y="2" width="1" height="1" fill="#ffffff" opacity="0.08"/><rect x="4" y="2" width="2" height="2" fill="#ffffff" opacity="0.16"/><rect x="6" y="2" width="1" height="1" fill="#ffffff" opacity="0.1"/><rect x="0" y="4" width="1" height="1" fill="#ffffff" opacity="0.07"/><rect x="2" y="4" width="1" height="1" fill="#ffffff" opacity="0.14"/><rect x="4" y="4" width="1" height="1" fill="#ffffff" opacity="0.06"/><rect x="6" y="4" width="1" height="1" fill="#ffffff" opacity="0.12"/><rect x="0" y="6" width="2" height="2" fill="#ffffff" opacity="0.17"/><rect x="2" y="6" width="1" height="1" fill="#ffffff" opacity="0.11"/><rect x="4" y="6" width="2" height="2" fill="#ffffff" opacity="0.16"/><rect x="6" y="6" width="1" height="1" fill="#ffffff" opacity="0.09"/></pattern>
+<radialGradient id="gLime" gradientUnits="userSpaceOnUse" cx="1005" cy="-70" r="900">
+  <stop offset="0" stop-color="#c6ff4d" stop-opacity=".16"/>
+  <stop offset="1" stop-color="#c6ff4d" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="gCyan" gradientUnits="userSpaceOnUse" cx="40" cy="500" r="760">
+  <stop offset="0" stop-color="#59f1ff" stop-opacity=".12"/>
+  <stop offset="1" stop-color="#59f1ff" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<clipPath id="tickClip"><path d="M28 10L23.0 10L23.0 15.0L18 15.0L18 20L18 44L18 49.0L23.0 49.0L23.0 54L28 54L1212 54L1217.0 54L1217.0 49.0L1222 49.0L1222 44L1222 20L1222 15.0L1217.0 15.0L1217.0 10L1212 10Z"/></clipPath>
+<g clip-path="url(#tickClip)">
+  <rect x="18" y="10" width="1204" height="44" fill="#0e0e13"/>
+  <rect x="18" y="10" width="1204" height="44" fill="url(#dither)"/>
+</g>
+<path d="M28 10L23.0 10L23.0 15.0L18 15.0L18 20L18 44L18 49.0L23.0 49.0L23.0 54L28 54L1212 54L1217.0 54L1217.0 49.0L1222 49.0L1222 44L1222 20L1222 15.0L1217.0 15.0L1217.0 10L1212 10Z" fill="none" stroke="#1d1f27" stroke-width="1"/>
+<text x="620" y="38" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono',Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Noto Sans Mono CJK SC','Microsoft YaHei',monospace" font-size="16" letter-spacing="1.6" fill="#7d8598">░▒▓ PIXEL · DISSOLVE · DIGITAL GARDEN · <tspan fill="#c6ff4d">万山青未阑</tspan> · KEEP SHIPPING ▓▒░</text>
+</svg>

@@ -1,139 +1,64 @@
 <div align="center">
 
-# 🌿 EVERVERDANTS
-### 万山青未阑 — Everlasting Verdancy
-
-<sub>*A name borrowed from classical Chinese verse — the endless green of layered mountains.*</sub>
-
-<br/>
-
-> *Writing clean code, finding poetry in the everyday tools.*
-
-<br/>
-
-<a href="https://eververdants.github.io/"><img src="https://img.shields.io/badge/Blog-6b9e6b?style=flat-square&logo=google-chrome&logoColor=white&labelColor=2d4a2d"></a>
-<a href="https://space.bilibili.com/2019959464"><img src="https://img.shields.io/badge/Bilibili-6b9e6b?style=flat-square&logo=bilibili&logoColor=white&labelColor=2d4a2d"></a>
-<a href="https://www.douyin.com/user/MS4wLjABAAAA8MEFE6VVh4_nWkTLPbueZYywgSyN19xhUFkmDF-nkhlnWytZWiBZ9YWM5s3RsprJ"><img src="https://img.shields.io/badge/抖音-6b9e6b?style=flat-square&logo=tiktok&logoColor=white&labelColor=2d4a2d"></a>
-<a href="mailto:llzgd@outlook.com"><img src="https://img.shields.io/badge/Email-6b9e6b?style=flat-square&logo=gmail&logoColor=white&labelColor=2d4a2d"></a>
-<a href="https://github.com/Eververdants"><img src="https://img.shields.io/badge/GitHub-6b9e6b?style=flat-square&logo=github&logoColor=white&labelColor=2d4a2d"></a>
+![Eververdants — 万山青未阑 · 高中生 · 开源开发者](assets/hero.svg)
 
 </div>
 
-<br/>
-
-<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
-
-<table>
-<tr>
-<td width="65%" style="padding-right: 20px;">
-
-### 👤 About
-
-> *High-school student, independent developer, and open-source contributor — building in public.*
-
-- 🔭 **Role** — building side projects & polishing utility tools
-- 💡 **Mindset** — clean architecture, readable code, fast feedback
-- 🤝 **Open to** — interesting collaborations with clear impact
-- 🌱 **Focus** — open source tooling · AI × calligraphy & photography · essays on Mao Zedong's Selected Works
-- ⚡ **Believe** — great tools should feel invisible
-
-</td>
-<td width="35%" align="center">
-
-<img width="220" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="Coding" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
-
-### 🛠️ Stack
-
-<p align="center" style="color: #8cb87a; font-size: 0.9em;">
-  Python · TypeScript/JavaScript · Go · Rust · C# · Java · C++ · Dart · Lua · SQL
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-2d4a2d?style=flat-square&logo=claude&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-2d4a2d?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-2d4a2d?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-2d4a2d?style=flat-square&logo=markdown&logoColor=white">
-</p>
-
-</div>
-
-<br/>
-
-<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
-
-### 📊 GitHub Analytics
+## 01 · Stack
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eververdants&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eververdants&layout=compact&langs_count=8&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eververdants&theme=vue&bg_color=f8f6f0&color=6b9e6b&line=6b9e6b&point=8cb87a&area=true&hide_border=true&area_color=6b9e6b20&radius=8" />
-
-<br/><br/>
-
-<img width="92%" src="https://github-profile-trophy.vercel.app/?username=Eververdants&theme=flat&no-frame=true&no-bg=true&row=2&column=4&margin-w=12&margin-h=12" />
-
-</div>
-
-</div>
+![Python](https://img.shields.io/badge/Python-0e0e13?style=flat-square&logo=python&logoColor=c6ff4d) ![TypeScript](https://img.shields.io/badge/TypeScript-0e0e13?style=flat-square&logo=typescript&logoColor=c6ff4d) ![Rust](https://img.shields.io/badge/Rust-0e0e13?style=flat-square&logo=rust&logoColor=c6ff4d) ![Vue](https://img.shields.io/badge/Vue-0e0e13?style=flat-square&logo=vuedotjs&logoColor=c6ff4d) ![Go](https://img.shields.io/badge/Go-0e0e13?style=flat-square&logo=go&logoColor=c6ff4d) ![C%23](https://img.shields.io/badge/C%23-0e0e13?style=flat-square&logo=csharp&logoColor=c6ff4d) ![Lua](https://img.shields.io/badge/Lua-0e0e13?style=flat-square&logo=lua&logoColor=c6ff4d) ![SQL](https://img.shields.io/badge/SQL-0e0e13?style=flat-square&logoColor=c6ff4d)
 
 <br/>
 
-<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
+![Tauri 2](https://img.shields.io/badge/Tauri_2-0e0e13?style=flat-square&logo=tauri&logoColor=c6ff4d) ![Claude Code](https://img.shields.io/badge/Claude_Code-0e0e13?style=flat-square&logo=claude&logoColor=c6ff4d) ![Vite](https://img.shields.io/badge/Vite-0e0e13?style=flat-square&logo=vite&logoColor=c6ff4d) ![Windows](https://img.shields.io/badge/Windows-0e0e13?style=flat-square&logo=windows11&logoColor=c6ff4d) ![Git](https://img.shields.io/badge/Git-0e0e13?style=flat-square&logo=git&logoColor=c6ff4d) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0e0e13?style=flat-square&logo=githubactions&logoColor=c6ff4d) ![Markdown](https://img.shields.io/badge/Markdown-0e0e13?style=flat-square&logo=markdown&logoColor=c6ff4d)
 
-### 📌 Projects
+</div>
+
+## 02 · Signals
 
 <div align="center">
 
-<a href="https://github.com/Eververdants/douyin-seo-playbook">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=douyin-seo-playbook&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
-</a>
-<a href="https://github.com/Eververdants/ink-quality-net">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ink-quality-net&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eververdants&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&icon_color=c6ff4d&text_color=b9c0d0&border_radius=0" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eververdants&layout=compact&langs_count=8&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&text_color=b9c0d0&border_radius=0" />
+
+<br/><br/>
+
+<img width="92%" src="https://ghchart.rshah.org/c6ff4d/Eververdants" alt="Contribution chart" />
+
+</div>
+
+## 03 · Selected works
+
+<div align="center">
+
+<a href="https://github.com/Eververdants/AppAudioRouter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=AppAudioRouter&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&icon_color=c6ff4d&text_color=b9c0d0&border_radius=0" />
 </a>
 <a href="https://github.com/Eververdants/ETBSaveManager">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ETBSaveManager&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ETBSaveManager&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&icon_color=c6ff4d&text_color=b9c0d0&border_radius=0" />
 </a>
-<a href="https://github.com/Eververdants/video-analytics">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=video-analytics&hide_border=true&bg_color=f8f6f0&title_color=6b9e6b&icon_color=6b9e6b&text_color=4a5a4a&border_radius=8" />
+<a href="https://github.com/Eververdants/douyin-seo-playbook">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=douyin-seo-playbook&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&icon_color=c6ff4d&text_color=b9c0d0&border_radius=0" />
+</a>
+<a href="https://github.com/Eververdants/MicrophoneController">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=MicrophoneController&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&icon_color=c6ff4d&text_color=b9c0d0&border_radius=0" />
 </a>
 
 </div>
 
-</div>
-
-<br/>
-
-<div style="background: #ffffff; border-radius: 16px; padding: 24px; margin: 12px 0;">
-
-### 🐍 Contribution Snake
+## 04 · Elsewhere
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Eververdants/Eververdants/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+<a href="https://eververdants.github.io/"><img src="https://img.shields.io/badge/Blog-0e0e13?style=flat-square&logo=googlechrome&logoColor=c6ff4d"></a> <a href="https://space.bilibili.com/2019959464"><img src="https://img.shields.io/badge/Bilibili-0e0e13?style=flat-square&logo=bilibili&logoColor=c6ff4d"></a> <a href="https://www.douyin.com/user/MS4wLjABAAAA8MEFE6VVh4_nWkTLPbueZYywgSyN19xhUFkmDF-nkhlnWytZWiBZ9YWM5s3RsprJ"><img src="https://img.shields.io/badge/抖音-0e0e13?style=flat-square&logo=tiktok&logoColor=c6ff4d"></a> <a href="https://github.com/Eververdants"><img src="https://img.shields.io/badge/GitHub-0e0e13?style=flat-square&logo=github&logoColor=c6ff4d"></a>
 
 </div>
 
 <br/>
 
-<div align="center" style="background: #ffffff; border-radius: 16px; padding: 20px; margin: 12px 0; color: #4a5a4a;">
+<div align="center">
 
-  <h3 style="color: #2d4a2d; margin-bottom: 4px;">Eververdants · 万山青未阑</h3>
-  <p><em>Thanks for stopping by 🌿</em></p>
+![PIXEL · DISSOLVE · DIGITAL GARDEN · 万山青未阑 · KEEP SHIPPING](assets/ticker.svg)
 
 </div>
