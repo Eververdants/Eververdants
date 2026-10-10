@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天执行
+    - cron: "0 0 * * *"  # daily
   workflow_dispatch:
 
 # The default token is read-only now; without this the push to `output`

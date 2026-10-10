@@ -1,6 +1,6 @@
 <div align="center">
 
-![Eververdants — 万山青未阑 · 高中生 · 开源开发者](assets/hero.svg)
+![Eververdants - high-school student and open-source developer](assets/hero.svg)
 
 </div>
 
@@ -38,11 +38,11 @@
 <a href="https://github.com/Eververdants/ETBSaveManager">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=ETBSaveManager&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&icon_color=c6ff4d&text_color=b9c0d0&border_radius=0" />
 </a>
-<a href="https://github.com/Eververdants/douyin-seo-playbook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=douyin-seo-playbook&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&icon_color=c6ff4d&text_color=b9c0d0&border_radius=0" />
-</a>
 <a href="https://github.com/Eververdants/MicrophoneController">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=MicrophoneController&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&icon_color=c6ff4d&text_color=b9c0d0&border_radius=0" />
+</a>
+<a href="https://github.com/Eververdants/NightmareSaveUnlocker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eververdants&repo=NightmareSaveUnlocker&hide_border=true&bg_color=0e0e13&title_color=c6ff4d&icon_color=c6ff4d&text_color=b9c0d0&border_radius=0" />
 </a>
 
 </div>
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<a href="https://eververdants.github.io/"><img src="https://img.shields.io/badge/Blog-0e0e13?style=flat-square&logo=googlechrome&logoColor=c6ff4d"></a> <a href="https://space.bilibili.com/2019959464"><img src="https://img.shields.io/badge/Bilibili-0e0e13?style=flat-square&logo=bilibili&logoColor=c6ff4d"></a> <a href="https://www.douyin.com/user/MS4wLjABAAAA8MEFE6VVh4_nWkTLPbueZYywgSyN19xhUFkmDF-nkhlnWytZWiBZ9YWM5s3RsprJ"><img src="https://img.shields.io/badge/抖音-0e0e13?style=flat-square&logo=tiktok&logoColor=c6ff4d"></a> <a href="https://github.com/Eververdants"><img src="https://img.shields.io/badge/GitHub-0e0e13?style=flat-square&logo=github&logoColor=c6ff4d"></a>
+<a href="https://eververdants.github.io/"><img src="https://img.shields.io/badge/Blog-0e0e13?style=flat-square&logo=googlechrome&logoColor=c6ff4d"></a> <a href="https://space.bilibili.com/2019959464"><img src="https://img.shields.io/badge/Bilibili-0e0e13?style=flat-square&logo=bilibili&logoColor=c6ff4d"></a> <a href="https://www.douyin.com/user/MS4wLjABAAAA8MEFE6VVh4_nWkTLPbueZYywgSyN19xhUFkmDF-nkhlnWytZWiBZ9YWM5s3RsprJ"><img src="https://img.shields.io/badge/Douyin-0e0e13?style=flat-square&logo=tiktok&logoColor=c6ff4d"></a> <a href="https://github.com/Eververdants"><img src="https://img.shields.io/badge/GitHub-0e0e13?style=flat-square&logo=github&logoColor=c6ff4d"></a>
 
 </div>
 
@@ -71,6 +71,6 @@
 
 <div align="center">
 
-![PIXEL · DISSOLVE · DIGITAL GARDEN · 万山青未阑 · KEEP SHIPPING](assets/ticker.svg)
+![PIXEL · DISSOLVE · DIGITAL GARDEN · CALLIGRAPHY · PHOTOGRAPHY · KEEP SHIPPING](assets/ticker.svg)
 
 </div>
